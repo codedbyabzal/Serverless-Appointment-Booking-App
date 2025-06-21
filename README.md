@@ -69,5 +69,3 @@
   <li>User receives a confirmation message/email.</li>
 </ol>
 
-<h3>📜 License</h3>
-<p>This project is licensed under the <strong>MIT License</strong>.</p>
